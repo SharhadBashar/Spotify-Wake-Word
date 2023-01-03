@@ -1,0 +1,43 @@
+
+0  | Hello Spotify 
+1  | Could be on Spotify 
+2  | Could be on Spotify. Hello Spotify
+3  | Check out this song on Spotify
+4  | Check out this song on Spotify. Hello Spotify 
+5  | Lets listen to that. Hello Spotify 
+6  | I will try to find it. Hello Spotify 
+7  | Hello Spotify, play that song 
+8  | I will try to find it. Hello Spotify, play that song 
+
+9  | Hey Siri 
+10 | Let me check. Hey Siri  
+11 | Hey siri, play that song 
+
+12 | Alexa 
+13 | I'll set that. Alexa 
+14 | Alexa, play that song 
+
+15 | Ok Google 
+16 | Let me google it. Ok Google 
+17 | Ok google, play that song 
+
+
+
+
+
+
+0  | Sharhad 
+1  | Areeq 
+2  | Rehan 
+3  | Rafid 
+4  | Neha 
+5  | Nayeer 
+6  | Arisha 
+7  | Yusra 
+8  | Rezwana 
+9  | Shila 
+10 | Mohsin
+11 | Laxmi 
+12 | Tejo
+13 | Harish
+14 | Laxmis friend 2
