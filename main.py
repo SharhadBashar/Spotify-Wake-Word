@@ -1,4 +1,4 @@
-from whisper_audio import Audio_To_Text
+from Whisper.whisper_audio import Audio_To_Text
 
 att = Audio_To_Text()
 while True:

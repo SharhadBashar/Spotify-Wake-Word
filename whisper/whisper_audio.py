@@ -12,14 +12,14 @@ class Audio_To_Text:
 	def __init__(self, model_type = 'tiny.en'):
 		self.model = whisper.load_model(model_type)
 
-	def transcribe(self, audio_file = 'output.wav'):
-		text = self.model.transcribe(os.path.join(audio_file))['text']
+	def transcribe(self, audio_file = 'output.wav', audio_path = './Recordings/'):
+		text = self.model.transcribe(os.path.join(audio_path, audio_file))['text']
 		text = text.lower()
 		return 'hello spotify' in text
 
-	def listen(self):
+	def listen(self, audio_file = 'output.wav', audio_path = './Recordings/'):
 		fs = 44100
 		seconds = 3
 		myrecording = sd.rec(int(seconds * fs), samplerate = fs, channels = 1)
 		sd.wait()
-		write('output.wav', fs, myrecording)
+		write(os.path.join(audio_path, audio_file), fs, myrecording)
