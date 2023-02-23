@@ -6,7 +6,7 @@ By
 
 The wake word is `Hello Spotify`
 
-We are using 3.8.16
+We are using `3.8.16`
 
 Please use this version otherwise some of the libraries wont work
 
