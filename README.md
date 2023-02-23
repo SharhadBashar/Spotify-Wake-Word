@@ -18,3 +18,7 @@ Then run the main python file:
 `python main.py`
 
 Once you see the output of `Listening` on the screen, press enter and you are ready to talk, and the program will listen and output `True` or `False` based on what it hears
+
+Presentation: https://docs.google.com/presentation/d/1stwhRSlpFyYllG06VzA-QT0CxZ8z_NxQ/edit?usp=sharing&ouid=116162871924759870057&rtpof=true&sd=true
+
+Demo: https://drive.google.com/file/d/1ADnWt_8DwNRZbyZyk5EV7l3b-60OiAop/view?usp=sharing
